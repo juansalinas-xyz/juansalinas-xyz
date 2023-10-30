@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Matías Salinas</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Kotlin, NodeJS, Blockchain**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **jmsalinas88@gmail.com**
 
