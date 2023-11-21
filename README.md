@@ -28,6 +28,5 @@ My tasks involve building microservices, analysing algorithms, altering code, fi
 
 🎓 Currently learning: NodeJS
 
-📧 jmsalinas88@gmail.com <br>
-📣 https://t.me/juansalinas_xyz
+📣 https://linktr.ee/juansalinas_xyz
 
