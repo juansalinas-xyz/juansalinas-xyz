@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Matías Salinas</h1> 
+<h1 align="center">Hi 👋, I'm Juan Salinas</h1> 
 
 Hello! 👋 Thanks for visiting my profile 😊
 
