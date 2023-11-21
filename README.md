@@ -22,7 +22,6 @@ My tasks involve building microservices, analysing algorithms, altering code, fi
 - Maven
 - Gradle
 - AWS
-- GCP
 - Scrum
 - Kanban
 
