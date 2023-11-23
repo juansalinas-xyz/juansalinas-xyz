@@ -26,6 +26,5 @@ My tasks involve building microservices, analysing algorithms, altering code, fi
 - Kanban
 
 🎓 Currently learning: NodeJS
-
 📣 https://linktr.ee/juansalinas_xyz
 
