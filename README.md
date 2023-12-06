@@ -2,7 +2,7 @@
 
 Hello! 👋 Thanks for visiting my profile 😊
 
-I am a software engineer with 10+ years of experience, specialising in the backend development area.
+I am a software engineer with 10+ years of experience, specialized in the backend development area.
 
 For the last 3 years, I have been developing apis using Java, Kotlin and Python programming languages.
 
